@@ -1,4 +1,4 @@
-# Lara blog based on Laracast laravel-from-scratch-2018 
+# Lara blog based on Laracast laravel-from-scratch-2017 
 
 (Ilyos Xizr - laravel 5.6)
 
@@ -24,10 +24,3 @@ If you have PHP installed locally and you would like to use PHP's built-in devel
 ```
 php artisan serve
 ```
-
-- 01-Laravel Installation and Composer
-
-
-
-
-
